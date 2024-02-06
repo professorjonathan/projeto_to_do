@@ -1,5 +1,10 @@
 Lista de tarefas(to do): Projeto desenvolvido utilizando React com Redux
 
+![image](https://github.com/professorjonathan/projeto_to_do/assets/115835116/7a3d63e6-3bf9-438f-8906-339f23b6f950)
+![image](https://github.com/professorjonathan/projeto_to_do/assets/115835116/c59bce02-f4c8-490f-9b22-e5c92dcde76c)
+![image](https://github.com/professorjonathan/projeto_to_do/assets/115835116/af85aca4-4b5a-4f81-bcab-ac6aa965ec92)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
